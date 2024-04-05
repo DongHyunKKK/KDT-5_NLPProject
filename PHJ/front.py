@@ -188,17 +188,10 @@ while True:
             pre = model(text, offsets)
             if model_num == 4:
                 pre = torch.softmax(pre, dim=1)
-            elif model_num == 3:
-                pre = pre
-            elif model_num == 1:
-                # print(pre)
-
-                pre = pre
-
-                # print(pre)
-
-            else:
+            elif model_num == 2:
                 pre = torch.sigmoid(pre)
+            else:
+                pre = pre # 1, 3 은 활성화 함수 거침
         return (pre, model_num)
 
 
@@ -211,15 +204,13 @@ while True:
                 print(f'{f} 입니다.')
 
         elif num == 1:
-            if prediction > 2:
+            if prediction > 2:  # 불균형 데이터를 조절하기 위해 임계치 조절
                 print(f'{t} 입니다.')
             else:
                 print(f'{f} 입니다.')
 
     def multi_prediction(prediction, num):
         print('================= 결과 ====================')
-        # print(prediction)
-        # print(prediction.argmax(dim= 1).item() )
 
         if prediction.argmax(dim= 1).item() == 0:
             print(f'{l1} 입니다.')
