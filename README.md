@@ -11,7 +11,8 @@ https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=
   
 #### 역할분담 및 기능설계서
 
-![image](https://github.com/KDT5-1TEAM/KDT-5_NLPProject/assets/155441547/e9c27035-40fc-416c-ae7f-bad32521aa5f)
+![image](https://github.com/KDT5-1TEAM/KDT-5_NLPProject/assets/155441547/64e09c2a-66d9-4994-b100-3985fbf78d0a)
+
 
 
 
