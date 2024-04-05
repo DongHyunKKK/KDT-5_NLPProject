@@ -1,7 +1,7 @@
 # KDT-5_NLPProject
 경북대학교 KDT(Korea Digital Training) 자연어처리(NLP) 프로젝트
 
-## 알아무긋나 : 방언 분류 모델
+## 방언 분류 모델
 
   
 #### DATA
