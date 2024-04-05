@@ -9,9 +9,10 @@
 [[https://www.kaggle.com/datasets/msambare/fer2013](https://www.kaggle.com/datasets/amandam1/120-dog-breeds-breed-classification)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71517)
 https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71558
   
-#### 역할분담 및 기능설계
+#### 역할분담 및 기능설계서
 
-![image](https://github.com/KDT5-1TEAM/KDT-5_NLPProject/assets/155441547/01c7b402-4d8f-4ec3-9b5a-83514e0555dd)
+![image](https://github.com/KDT5-1TEAM/KDT-5_NLPProject/assets/155441547/281a02cb-278b-44b0-9e43-66f5729d5549)
+
 
 
 
