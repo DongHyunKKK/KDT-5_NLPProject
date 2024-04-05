@@ -136,22 +136,22 @@ while True:
     while True:
         model_num = int(input('분류기 번호를 입력하세요. : '))
         if model_num == 1:
-            model = torch.load('model/model_tkLang.pt')
+            model = torch.load('../model/model_tkLang.pt')
             t = '경상도 사투리'
             f = '표준말'
             break
         elif model_num == 2 :
-            model = torch.load('model/model_Jeolla.pht')
+            model = torch.load('../model/model_Jeolla.pht')
             t = '전라도 사투리'
             f = '표준말'
             break
         elif model_num == 3 :
-            model = torch.load('model/model_jeju_nodelete.pt')
+            model = torch.load('../model/model_jeju_nodelete.pt')
             t = '표준말'
             f = '제주도 사투리'
             break
         elif model_num == 4 :
-            model = torch.load('model/model_multi.pt')
+            model = torch.load('../model/model_multi.pt')
             l1 = '강원도 사투리'  # 0 
             l2 = '경상도 사투리'  # 1
             l3 = '전라도 사투리'  # 2
@@ -163,13 +163,13 @@ while True:
 
 
     if model_num == 1:
-        vocab_file = 'vocab/vocab_tk.pkl'
+        vocab_file = '../vocab/vocab_tk.pkl'
     elif model_num == 2:
-        vocab_file = 'vocab/vocab_Jeolla.pkl'
+        vocab_file = '../vocab/vocab_Jeolla.pkl'
     elif model_num == 3:
-        vocab_file = 'vocab/vocab_jeju.pkl'
+        vocab_file = '../vocab/vocab_jeju.pkl'
     else:
-        vocab_file = 'vocab/vocab_multi_new.pkl'
+        vocab_file = '../vocab/vocab_multi_new.pkl'
 
 
     vocab = load_vocab(vocab_file)
@@ -230,7 +230,6 @@ while True:
         multi_prediction(*predict(model, text))
     elif model_num in [0,1,2,3]:
         binary_prediction(*predict(model, text))
-
 
 
 
