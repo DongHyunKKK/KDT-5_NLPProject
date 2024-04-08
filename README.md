@@ -6,7 +6,7 @@
   
 #### DATA
 - AI hub  
-[[https://www.kaggle.com/datasets/msambare/fer2013](https://www.kaggle.com/datasets/amandam1/120-dog-breeds-breed-classification)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71517)
+[https://www.kaggle.com/datasets/msambare/fer2013](https://www.kaggle.com/datasets/amandam1/120-dog-breeds-breed-classification)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71517)
 https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71558
   
 #### 역할분담 및 기능설계서
