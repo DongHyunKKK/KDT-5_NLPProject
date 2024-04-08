@@ -22,11 +22,8 @@ https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=
   <summary>
     박희진( 경상도 방언 분류 모델 및 exe 파일 )
   </summary>
-# [ 방언 분류 모델 ]
 
-https://github.com/ParkHeeJin00/KDT-5_NLPProject
-
-## 경상도 사투리 이진 분류 모델
+# 경상도 사투리 이진 분류 모델
 
 ## (1) 데이터 확인 및 전처리
 
