@@ -138,4 +138,7 @@ https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=
     김문섭( 제주도 방언 분류 모델 및 5도 사투리 분류 모델 )
   </summary>
 
+  ## Notion 노트로 대체합니다.
+  
+> https://incredible-patio-33e.notion.site/KDT5-4ebc9bdb49e14a5088b041017f55f8ab 
 </details>
