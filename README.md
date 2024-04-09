@@ -140,5 +140,5 @@ https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=
 
   ## Notion 노트로 대체합니다.
   
-> https://www.notion.so/KDT5-4ebc9bdb49e14a5088b041017f55f8ab?pvs=4
+> https://incredible-patio-33e.notion.site/KDT5-4ebc9bdb49e14a5088b041017f55f8ab 
 </details>
